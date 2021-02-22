@@ -24,18 +24,21 @@ For the Database component of the backend, MySQL is used running on Google Cloud
 	 - Angular Material UI
 	 - Typescript
 
-## User interface
+## User Interface
 
 Jumpout Meetings Page - Admin View
-![More Button Menu](https://photos.app.goo.gl/xFd4E3UFVSFxJHBV9)
+<a  href="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR"><img  src="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-![Edit Jumpout Meeting](https://photos.app.goo.gl/h47w7p9AUegxKQFC7)
+<a  href="https://drive.google.com/uc?export=view&id=1GqfB8qZXJNL1vKawdrParThzpPSVM51h"><img  src="https://drive.google.com/uc?export=view&id=1GqfB8qZXJNL1vKawdrParThzpPSVM51h" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+
 
 Nominations Page
-![View Nominations for Jumpout](https://photos.app.goo.gl/Qs9ZYdPBevkXDyFT7)
+<a  href="https://drive.google.com/uc?export=view&id=1Lc-0hV8FQ0g8kuJNpOwcCGPkTQUOkDFX"><img  src="https://drive.google.com/uc?export=view&id=1Lc-0hV8FQ0g8kuJNpOwcCGPkTQUOkDFX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-![View Trainer List and Nomination Count](https://photos.app.goo.gl/ps5BkmSZGeVwEWEu9)
+<a  href="https://drive.google.com/uc?export=view&id=1nUuWJlIDR_IZ37d5LxFdlgyU4dN1rdjm"><img  src="https://drive.google.com/uc?export=view&id=1nUuWJlIDR_IZ37d5LxFdlgyU4dN1rdjm" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 User Management Page
 <a  href="https://drive.google.com/uc?export=view&id=1w_W2UFFe6Iqs8Vsg436Ng8C9Xj7s8KXG"><img  src="https://drive.google.com/uc?export=view&id=1w_W2UFFe6Iqs8Vsg436Ng8C9Xj7s8KXG" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
