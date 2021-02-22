@@ -26,18 +26,25 @@ For the Database component of the backend, MySQL is used running on Google Cloud
 
 ## User interface
 **Jumpout Meetings Page - Admin View**
-List view of Jumpouts within a date range<a  href="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR"><img  src="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+List view of Jumpouts within a date range
+<a  href="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR"><img  src="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-More menu for a Jumpout<a  href="https://drive.google.com/uc?export=view&id=1GqfB8qZXJNL1vKawdrParThzpPSVM51h"><img  src="https://drive.google.com/uc?export=view&id=1GqfB8qZXJNL1vKawdrParThzpPSVM51h" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+More menu for a Jumpout
+<a  href="https://drive.google.com/uc?export=view&id=1GqfB8qZXJNL1vKawdrParThzpPSVM51h"><img  src="https://drive.google.com/uc?export=view&id=1GqfB8qZXJNL1vKawdrParThzpPSVM51h" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 
 **Nominations Page**
-List of all nominations for a Jumpout<a  href="https://drive.google.com/uc?export=view&id=1Lc-0hV8FQ0g8kuJNpOwcCGPkTQUOkDFX"><img  src="https://drive.google.com/uc?export=view&id=1Lc-0hV8FQ0g8kuJNpOwcCGPkTQUOkDFX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+List of all nominations for a Jumpout
+<a  href="https://drive.google.com/uc?export=view&id=1Lc-0hV8FQ0g8kuJNpOwcCGPkTQUOkDFX"><img  src="https://drive.google.com/uc?export=view&id=1Lc-0hV8FQ0g8kuJNpOwcCGPkTQUOkDFX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-List of all trainers and their count of nominations<a  href="https://drive.google.com/uc?export=view&id=1nUuWJlIDR_IZ37d5LxFdlgyU4dN1rdjm"><img  src="https://drive.google.com/uc?export=view&id=1nUuWJlIDR_IZ37d5LxFdlgyU4dN1rdjm" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+List of all trainers and their count of nominations
+<a  href="https://drive.google.com/uc?export=view&id=1nUuWJlIDR_IZ37d5LxFdlgyU4dN1rdjm"><img  src="https://drive.google.com/uc?export=view&id=1nUuWJlIDR_IZ37d5LxFdlgyU4dN1rdjm" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 **User Management Page**
-List of users<a  href="https://drive.google.com/uc?export=view&id=1w_W2UFFe6Iqs8Vsg436Ng8C9Xj7s8KXG"><img  src="https://drive.google.com/uc?export=view&id=1w_W2UFFe6Iqs8Vsg436Ng8C9Xj7s8KXG" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+List of users
+<a  href="https://drive.google.com/uc?export=view&id=1w_W2UFFe6Iqs8Vsg436Ng8C9Xj7s8KXG"><img  src="https://drive.google.com/uc?export=view&id=1w_W2UFFe6Iqs8Vsg436Ng8C9Xj7s8KXG" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
+Modify User
+<a  href="https://drive.google.com/uc?export=view&id=1flvdUOLx5KJcASI7EQq3ylsjJ4kCtEYE"><img  src="https://drive.google.com/uc?export=view&id=1flvdUOLx5KJcASI7EQq3ylsjJ4kCtEYE" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
