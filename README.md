@@ -24,7 +24,7 @@ For the Database component of the backend, MySQL is used running on Google Cloud
 	 - Angular Material UI
 	 - Typescript
 
-## User interface
+## User Interface
 **Jumpout Meetings Page - Admin View**
 List view of Jumpouts within a date range
 <a  href="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR"><img  src="https://drive.google.com/uc?export=view&id=14mY9kRg5wkkNZ8TldiDtVP8faU3XlnFR" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
